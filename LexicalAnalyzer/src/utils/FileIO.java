@@ -3,7 +3,7 @@ package utils;
 import java.io.*;
 
 /**
- * Created by paranoia on 2017/10/30.
+ * Created by paranoia on 2017/10/24.
  * 这个类用作文件的读取和写入
  */
 

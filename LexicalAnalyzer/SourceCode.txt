@@ -1,3 +1,24 @@
 int add(int a, int b){
-	return a+b;
+    a+=1; b*=1;
+    int d=-2.445;
+
+    if(true) {
+        a++;
+    }
+	return a;
 }
+
+/* hahahahahahahahaha */
+// hahahahaha
+
+public static void main(String[] arg0){
+    int result=this.add(305,40);
+    result*=-2.7;
+    String classroom="result";
+    classroom=result/(-2.)+"";
+    char c1='a';
+    char c2='aaa';
+    return 0;
+}
+
+/* fdgdgdg
